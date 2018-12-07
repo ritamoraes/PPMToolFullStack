@@ -6,6 +6,8 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/repositories/ProjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/repositories/ProjectRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/ProjectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/ProjectService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tw/exercice/api/ppmtool/PpmtoolApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tw/exercice/api/ppmtool/PpmtoolApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tw/exercice/api/ppmtool/web/ProjectController.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/domain/Project.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="435">
               <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,8 +42,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/repositories/ProjectRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/exercice/api/ppmtool/PpmtoolApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/ProjectService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="357">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="498">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/MapValidationErrorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="204">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/ProjectIdExceptionResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/ProjectIdException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/CustomResponseEntityExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tw/exercice/api/ppmtool/PpmtoolApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/repositories/ProjectRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/ProjectService.java" />
@@ -229,6 +244,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ppmtool" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ppmtool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PPMToolBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ppmtool" type="462c0819:PsiDirectoryNode" />
               <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,6 +282,27 @@
               <item name="ppmtool" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ppmtool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PPMToolBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ppmtool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PPMToolBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ppmtool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PPMToolBackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ppmtool" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +310,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544043378882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544204648830" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -280,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PpmtoolApplicationTests.updateProject">
     <configuration name="PpmBackEnd" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.tw.exercice.api.ppmtool.PpmtoolApplication" />
       <module name="ppmtool" />
@@ -288,6 +333,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PpmtoolApplicationTests.testDeleteProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppmtool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.exercice.api.ppmtool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw.exercice.api.ppmtool" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.exercice.api.ppmtool.PpmtoolApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PpmtoolApplicationTests.updateProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppmtool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tw.exercice.api.ppmtool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tw.exercice.api.ppmtool" />
+      <option name="MAIN_CLASS_NAME" value="com.tw.exercice.api.ppmtool.PpmtoolApplicationTests" />
+      <option name="METHOD_NAME" value="updateProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PpmtoolApplicationTests.updateProject" />
+        <item itemvalue="JUnit.PpmtoolApplicationTests.testDeleteProject" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -299,11 +382,52 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 14h 55m 58s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 16h 23m 21s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 16h 23m 25s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 16h 23m 56s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 16h 24m 55s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.06 at 16h 25m 30s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.07 at 14h 31m 39s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_testDeleteProject - 2018.12.07 at 14h 33m 06s.xml">
+      <configuration name="PpmtoolApplicationTests.testDeleteProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_updateProject - 2018.12.07 at 15h 17m 08s.xml">
+      <configuration name="PpmtoolApplicationTests.updateProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpmtoolApplicationTests_updateProject - 2018.12.07 at 15h 18m 53s.xml">
+      <configuration name="PpmtoolApplicationTests.updateProject" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31831187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -314,16 +438,16 @@
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33248407" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,12 +463,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java</url>
-          <line>29</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="service.findProjectByIdentifier(project.getProjectIdentifier())" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -356,8 +485,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/domain/Project.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="435">
           <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tw/exercice/api/ppmtool/PpmtoolApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -366,10 +505,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/MapValidationErrorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="204">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/CustomResponseEntityExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/ProjectIdException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,32 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/ProjectIdException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/exceptions/CustomResponseEntityExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/repositories/ProjectRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -423,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/web/ProjectController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="498">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -433,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/exercice/api/ppmtool/services/ProjectService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="357">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
